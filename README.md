@@ -1,4 +1,8 @@
 # Puzzler
+
+Documentation:  
+[https://medium.com/@assisr.matheus/learning-vr-through-udacitys-nanodegree-the-documentation-of-a-project-b8496600feea](https://medium.com/@assisr.matheus/learning-vr-through-udacitys-nanodegree-the-documentation-of-a-project-b8496600feea)
+
 Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
 - Course: VR Design
