@@ -1,5 +1,8 @@
 # Puzzler
 
+This file on medium:  
+[https://medium.com/@assisr.matheus/learning-vr-through-udacitys-nanodegree-the-documentation-of-a-project-b8496600feea](https://medium.com/@assisr.matheus/learning-vr-through-udacitys-nanodegree-the-documentation-of-a-project-b8496600feea)
+
 # Introduction
 Puzzler is a mobile VR app with a simon says like puzzle that gives the opportunity for anyone to experience virtual reality.
 
