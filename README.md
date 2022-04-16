@@ -1,7 +1,7 @@
 # Puzzler
 
 Documentation:  
-[https://medium.com/@assisr.matheus/learning-vr-through-udacitys-nanodegree-the-documentation-of-a-project-b8496600feea](https://medium.com/@assisr.matheus/learning-vr-through-udacitys-nanodegree-the-documentation-of-a-project-b8496600feea)
+[Learning VR through Udacity’s Nanodegree. The documentation of a project.](/Documentation/Doc.md)
 
 Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
